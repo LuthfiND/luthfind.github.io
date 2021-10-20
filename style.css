@@ -3,8 +3,16 @@
   background-color: #e2edff;
 }
 
+#about {
+  background-color: #ffd700;
+}
+
 #projects {
   background-color: #e2edff;
+}
+
+#footer {
+  background-color: #0d63fe;
 }
 
 section {
